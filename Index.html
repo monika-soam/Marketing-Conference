@@ -39,7 +39,7 @@
 
 
       <div class="logo">
-        <a href="#Home"><img src="./assets/images/logo.png" alt="Logo"></a>
+        <a href="index.html"><img src="./assets/images/logo.png" alt="Logo"></a>
       </div>
       <div class="menu-items">
         <ul class="nav-link">
@@ -55,10 +55,18 @@
       </div>
     </nav>
   </section>
+  <div id="mySidenav" class="sidenav">
+    <a href="#" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="about.html">About</a>
+    <a href="#">Program</a>
+    <a href="#">Join</a>
+    <a href="#">Sponsers</a>
+    <a href="#">News</a>
+  </div>
 
   <section class="home" id="home">
     <div class="main">
-      <div class="hamburger"><img src="/assets/images/Ham.png" alt="hamburger"></div>
+      <div class="hamburger" onclick="openNav()"><img src="/assets/images/Ham.png" alt="hamburger"></div>
       <div class="content">
         <h1>"Hello! Sharing world"</h1>
         <h2>CREATIVE COMMONS <br>GLOBAL SUMMIT<br>2022</h2>
@@ -243,7 +251,7 @@
     </div>
   </section>
 
-
+  <script src="assets/js/main.js"></script>
 </body>
 
 </html>
