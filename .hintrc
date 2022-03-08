@@ -5,7 +5,7 @@
         "pattern": ["**", "!.git/**", "!node_modules/**"]
       }
     },
-    "extends": ["development"],
+    "extends": ["stylelint-config-standard"],
     "formatters": ["stylish"],
     "hints": [
       "button-type",
