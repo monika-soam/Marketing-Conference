@@ -539,6 +539,10 @@ nav {
     padding: 1rem;
   }
 
+  .hide-me {
+    display: none;
+  }
+
   .more-button {
     border: 2px solid #7a7c8142;
     display: flex;

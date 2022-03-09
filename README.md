@@ -1,15 +1,14 @@
-# Conference
+# Marketing Conference
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# My Portfolio
 
-Portfolio-desktop-version-skeleton
-Added Home section,Work cards, About me section and Contact us
+Created a global marketing conference website. It has Home Page and About Page also added the user interaction link, mobile menu, Implement the section "Featured speakers" with dynamic HTML.
 
 
 
 ## Built With
 
 - HTML & CSS
+- Java Script
 - linters
 
 ## Live Demo
