@@ -13,7 +13,7 @@ In mobile version when 'MORE' button is dynamically used and followed the design
 - linters
 
 ## Live Demo
-[Live Demo Link] (https://monika-soam.github.io)
+[Live Demo Link] (https://monika-soam.github.io/Marketing-Conference/)
 
  
 
