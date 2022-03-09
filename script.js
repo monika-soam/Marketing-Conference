@@ -43,8 +43,8 @@ function renderSpeaker(index) {
   if (index >= 2) { additionalClass = 'hide-me'; }
   return ` <div class="speakers-profile ${additionalClass}">
   <div class="img-stack">
-    <div class="img-bottom"><img src="/assets/images/dotted-new.png" alt="dotted"></div>
-    <div class="img-top"><img src="/assets/images/${speakerProfiles[index].image}"   alt="speaker"></div>
+    <div class="img-bottom"><img src="./images/dotted-new.png" alt="dotted"></div>
+    <div class="img-top"><img src="./images/${speakerProfiles[index].image}"   alt="speaker"></div>
   </div>
   <div class="speaker-content">
     <h3>${speakerProfiles[index].name}</h3>

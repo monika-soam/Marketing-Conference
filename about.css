@@ -159,7 +159,7 @@ nav {
 }
 
 .main-program {
-  background-image: url(../images/main-program-bg.png);
+  background-image: url(./images/main-program-bg.png);
   background-color: #272a31;
   color: #ffffffb5;
   text-align: center;
