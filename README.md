@@ -1,7 +1,8 @@
 # Marketing Conference
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Created a global marketing conference website. It has Home Page and About Page also added the user interaction link, mobile menu, Implement the section "Featured speakers" with dynamic HTML.
+Created a global marketing conference website. It has Home Page and About Page and also added the user interaction link, mobile menu, Implement the section "Featured speakers" with dynamic HTML.
+In mobile version when 'MORE' button is dynamically used and followed the design.
 
 
 
