@@ -6,7 +6,7 @@
 }
 
 .main {
-  background-image: url(../images/header.png);
+  background-image: url(./images/header.png);
   color: #ec5242;
   background-size: cover;
 }
@@ -142,7 +142,7 @@ nav {
 }
 
 .main-program {
-  background-image: url(../images/main-program-bg.png);
+  background-image: url(./images/main-program-bg.png);
   background-color: #272a31;
   color: #ffffffb5;
   text-align: center;
@@ -368,17 +368,14 @@ nav {
   .header {
     display: none;
   }
-
   .hamburger {
     display: block;
     position: absolute;
     padding: 7% 11%;
   }
-
   .hamburger img {
     width: 52%;
   }
-
   .sidenav {
     display: block;
     width: 0;
@@ -390,7 +387,6 @@ nav {
     transition: 0.3s;
     padding-top: 7%;
   }
-
   .sidenav a {
     padding: 2% 10%;
     text-decoration: none;
@@ -400,11 +396,9 @@ nav {
     transition: 0.3s;
     font-weight: bold;
   }
-
   .sidenav a:hover {
     color: #790505;
   }
-
   .sidenav .closebtn {
     position: absolute;
     top: 3%;
@@ -414,13 +408,11 @@ nav {
     color: white;
     font-weight: bold;
   }
-
   .main {
     background-image: url(../images/mobile-home.png);
     background-size: cover;
     background-position: center;
   }
-
   .content {
     display: flex;
     flex-direction: column;
@@ -429,12 +421,10 @@ nav {
     padding-bottom: 16%;
     gap: 1em;
   }
-
   .content h2 {
     font-size: 3rem;
     font-weight: bold;
   }
-
   .inner-content {
     border: 0.4rem solid white;
     width: 95%;
@@ -445,24 +435,20 @@ nav {
     text-align: justify;
     background-color: rgb(247, 247, 247);
   }
-
   .inner-content-bottom {
     padding-top: 1rem;
     line-height: 4rem;
   }
-
   .inner-content-bottom p {
     color: #00000094;
     font-size: 1.3rem;
     line-height: 2.5rem;
     padding: 0.2rem 1rem;
   }
-
   .inner-content-bottom h3 {
     font-size: 2.5rem;
     margin-bottom: 0;
   }
-
   .program {
     display: flex;
     flex-direction: column;
@@ -470,21 +456,17 @@ nav {
     font-size: 20px;
     padding: 2rem;
   }
-
   .main-program {
     padding: 0;
   }
-
   .main-program h4 {
     margin-top: 3rem;
   }
-
   .featured-speakers h2 {
     font-weight: bold;
     font-size: 2rem;
     margin: 1rem 0;
   }
-
   .program-type {
     display: grid;
     grid-template-columns: 15% 20% 60%;
@@ -494,22 +476,18 @@ nav {
     align-items: center;
     text-align: left;
   }
-
   .program-type img {
     width: 5rem;
   }
-
   .program-type h5 {
     line-height: 2.2rem;
   }
-
   .join-button {
     display: flex;
     width: 100%;
     justify-content: center;
     margin-bottom: 4rem;
   }
-
   .join-button button {
     width: 75%;
     padding: 2rem;
@@ -518,11 +496,9 @@ nav {
     background-color: #ec5342;
     border: 1px;
   }
-
   .program-check {
     display: none;
   }
-
   .speakers {
     width: 100%;
     display: grid;
@@ -530,7 +506,6 @@ nav {
     align-items: center;
     margin: 0;
   }
-
   .speakers-profile {
     width: 100%;
     display: grid;
@@ -538,11 +513,9 @@ nav {
     gap: 1rem;
     padding: 1rem;
   }
-
   .hide-me {
     display: none;
   }
-
   .more-button {
     border: 2px solid #7a7c8142;
     display: flex;
@@ -553,12 +526,10 @@ nav {
     border-radius: 0.4rem;
     margin: 2rem 0;
   }
-
   .more-button .fa {
     color: #ec5242;
     font-weight: bold;
   }
-
   .footer {
     display: none;
   }
@@ -569,21 +540,17 @@ nav {
     margin-right: 0;
     padding: 3% 0;
   }
-
   .link {
     padding: 1rem;
   }
-
   .link a {
     font-size: 14px;
     font-weight: 600;
   }
-
   .header-button {
     padding: 2%;
     margin-right: 10%;
   }
-
   .program {
     width: 100%;
     height: 100%;
@@ -595,11 +562,9 @@ nav {
     margin: 0;
     grid-template-columns: 20% 20% 20% 20% 20%;
   }
-
   .main-program {
     padding: 4rem 2rem;
   }
-
   .program-type {
     padding: 0;
   }
@@ -611,69 +576,55 @@ nav {
     margin-right: 0;
     padding: 3% 0;
   }
-
   .menu-items {
     justify-content: left;
   }
-
   .link {
     padding: 3%;
   }
-
   .link a {
     font-size: 14px;
     font-weight: 600;
   }
-
   .logo {
     margin-left: 11%;
     margin-top: 1%;
   }
-
   .header-button {
     padding: 3%;
     margin-right: 5%;
     width: 40%;
     text-align: center;
   }
-
   .header-button button {
     padding: 2%;
     font-size: 13px;
   }
-
   .main-program {
     padding: 4rem 2rem;
   }
-
   .program {
     padding: 2rem 1rem;
   }
-
   .program-type {
     padding: 0;
   }
-
   .summits {
     gap: 2%;
     margin: 2%;
     align-items: center;
   }
-
   .summit-img {
     width: 80%;
   }
-
   .summit-img img {
     width: 100%;
     height: auto;
   }
-
   .footer-bottom-logo img {
     width: 90%;
     margin-left: 17%;
   }
-
   .inner-content-bottom .under-line {
     width: 37%;
   }
