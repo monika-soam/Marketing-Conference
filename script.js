@@ -1,40 +1,40 @@
 const speakerProfiles = [{
-    image: 'lady1.png',
-    name: 'Emila Enderson',
-    about: 'Professor at Brooklyn College.',
-    description: 'She won the Award for Excellence in Teaching and try hard to make people better at their passions.',
+  image: 'lady1.png',
+  name: 'Emila Enderson',
+  about: 'Professor at Brooklyn College.',
+  description: 'She won the Award for Excellence in Teaching and try hard to make people better at their passions.',
 
-  },
-  {
-    image: 'Man5.png',
-    name: 'Douglas Klutz',
-    about: 'Berkman professor at Harward Law School.',
-    description: 'His lectures matters as he brings representatives of non- profit organizations',
-  },
-  {
-    image: 'Man2.png',
-    name: 'James William',
-    about: 'Founder and CEO of cable company Myntia.',
-    description: 'James is a perfect example of the most successful motivational speakers.',
-  },
-  {
-    image: 'Lady2.png',
-    name: 'Nidea Buckerman',
-    about: 'Chair person of Vingra brands.',
-    description: 'Nidea Buckerman founded Vingra, the industry leader in GIS technology.',
-  },
-  {
-    image: 'Man1.png',
-    name: 'Ridhwan Shilwana',
-    about: 'Go for it fonder at New York.',
-    description: 'His empire has grown from a single 300-square-foot store in Oklahoma City to 46 states.',
-  },
-  {
-    image: 'Man4.png',
-    name: 'Cornel Nelson',
-    about: 'Co-founder of Maitryi and done Legal Studies.',
-    description: 'Many Americans will recognize him from appearances on CNN and other news channels.',
-  },
+},
+{
+  image: 'Man5.png',
+  name: 'Douglas Klutz',
+  about: 'Berkman professor at Harward Law School.',
+  description: 'His lectures matters as he brings representatives of non- profit organizations',
+},
+{
+  image: 'Man2.png',
+  name: 'James William',
+  about: 'Founder and CEO of cable company Myntia.',
+  description: 'James is a perfect example of the most successful motivational speakers.',
+},
+{
+  image: 'Lady2.png',
+  name: 'Nidea Buckerman',
+  about: 'Chair person of Vingra brands.',
+  description: 'Nidea Buckerman founded Vingra, the industry leader in GIS technology.',
+},
+{
+  image: 'Man1.png',
+  name: 'Ridhwan Shilwana',
+  about: 'Go for it fonder at New York.',
+  description: 'His empire has grown from a single 300-square-foot store in Oklahoma City to 46 states.',
+},
+{
+  image: 'Man4.png',
+  name: 'Cornel Nelson',
+  about: 'Co-founder of Maitryi and done Legal Studies.',
+  description: 'Many Americans will recognize him from appearances on CNN and other news channels.',
+},
 
 ];
 
