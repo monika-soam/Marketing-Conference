@@ -354,23 +354,19 @@ nav {
   .content-hide {
     display: none;
   }
-
   .main {
     background-image: url(./images/mobile-home.png);
     background-size: cover;
     background-position: center;
   }
-
   .hamburger {
     display: block;
     position: absolute;
-    padding: 7% 11%;
+    padding: 5% 3%;
   }
-
   .hamburger img {
     width: 52%;
   }
-
   .sidenav {
     display: block;
     width: 0;
@@ -382,7 +378,6 @@ nav {
     transition: 0.3s;
     padding-top: 7%;
   }
-
   .sidenav a {
     padding: 2% 10%;
     text-decoration: none;
@@ -392,11 +387,9 @@ nav {
     transition: 0.3s;
     font-weight: bold;
   }
-
   .sidenav a:hover {
     color: #790505;
   }
-
   .sidenav .closebtn {
     position: absolute;
     top: 3%;
@@ -406,7 +399,6 @@ nav {
     color: white;
     font-weight: bold;
   }
-
   .content {
     display: flex;
     flex-direction: column;
@@ -414,28 +406,23 @@ nav {
     padding-bottom: 16%;
     gap: 1em;
   }
-
   .content h1 {
     font-size: 1.5rem;
     font-weight: 500;
   }
-
   .content h2 {
     font-size: 1.8rem;
     font-weight: bold;
   }
-
   .about-content-logo {
     border: 2px solid #8080807d;
     width: 80%;
     margin: auto;
     padding: 3%;
   }
-
   .about-content-logo img {
     width: 100%;
   }
-
   .inner-content {
     border: 1px solid grey;
     width: 95%;
@@ -445,45 +432,37 @@ nav {
     text-align: center;
     background-color: white;
   }
-
   .inner-content p {
     padding: 1.2rem;
     font-weight: 700;
     margin-bottom: 0;
   }
-
   .inner-content-bottom p {
     color: #00000094;
     font-size: 1.3rem;
     line-height: 2rem;
     padding: 1rem 2rem;
   }
-
   .inner-content-bottom {
     padding: 0;
     line-height: 4rem;
   }
-
   .inner-content-bottom h3 {
     font-size: 1.7rem;
     margin-bottom: 0;
   }
-
   .featured-speakers {
     margin: 3%;
   }
-
   .featured-speakers .under-line {
     width: 7%;
   }
-
   .featured-speakers p {
     margin-top: 0;
     margin-bottom: 2%;
     font-size: 1.5rem;
     font-weight: 600;
   }
-
   .program {
     display: flex;
     flex-direction: column;
@@ -491,21 +470,17 @@ nav {
     font-size: 20px;
     padding: 2rem;
   }
-
   .main-program {
     padding: 0;
   }
-
   .main-program h4 {
     margin-top: 3rem;
   }
-
   .featured-speakers h2 {
     font-weight: bold;
     font-size: 1.8rem;
     margin: 1rem 0;
   }
-
   .program-type {
     display: grid;
     grid-template-columns: 15% 20% 60%;
@@ -515,22 +490,18 @@ nav {
     align-items: center;
     text-align: left;
   }
-
   .program-type img {
     width: 5rem;
   }
-
   .program-type h5 {
     line-height: 2.2rem;
   }
-
   .join-button {
     display: flex;
     width: 100%;
     justify-content: center;
     margin-bottom: 4rem;
   }
-
   .join-button button {
     width: 75%;
     padding: 2rem;
@@ -539,11 +510,9 @@ nav {
     background-color: #ec5342;
     border: 1px;
   }
-
   .program-check {
     display: none;
   }
-
   .speakers {
     width: 100%;
     display: grid;
@@ -551,7 +520,6 @@ nav {
     align-items: center;
     margin: 0;
   }
-
   .speakers-profile {
     width: 100%;
     display: grid;
@@ -559,7 +527,6 @@ nav {
     gap: 1rem;
     padding: 1rem;
   }
-
   .more-button {
     border: 2px solid #7a7c8142;
     display: flex;
@@ -570,7 +537,6 @@ nav {
     border-radius: 0.4rem;
     margin: 2rem 0;
   }
-
   .summits {
     display: flex;
     flex-direction: column;
@@ -578,21 +544,17 @@ nav {
     margin: 0%;
     width: 100%;
   }
-
   .summit-img {
     width: 100%;
   }
-
   .summit-img p {
     font-size: 1.2rem;
   }
-
   .summit-img img {
     font-size: 1.2rem;
     width: 100%;
     filter: blur(2px);
   }
-
   .over-blur {
     background-color: rgb(0, 0, 0);
     background-color: rgba(0, 0, 0, 0);
@@ -607,12 +569,10 @@ nav {
     padding: 0;
     text-align: center;
   }
-
   .more-button .fa {
     color: #ec5242;
     font-weight: bold;
   }
-
   .inner-content-bottom .under-line {
     width: 44%;
   }
@@ -623,21 +583,17 @@ nav {
     margin-right: 0;
     padding: 3% 0;
   }
-
   .link {
     padding: 1rem;
   }
-
   .link a {
     font-size: 14px;
     font-weight: 600;
   }
-
   .header-button {
     padding: 2%;
     margin-right: 10%;
   }
-
   .program {
     width: 100%;
     height: 100%;
@@ -649,11 +605,9 @@ nav {
     margin: 0;
     grid-template-columns: 20% 20% 20% 20% 20%;
   }
-
   .main-program {
     padding: 4rem 2rem;
   }
-
   .program-type {
     padding: 0;
   }
@@ -665,74 +619,59 @@ nav {
     margin-right: 0;
     padding: 3% 0;
   }
-
   .menu-items {
     justify-content: left;
   }
-
   .link {
     padding: 3%;
   }
-
   .link a {
     font-size: 14px;
     font-weight: 600;
   }
-
   .logo {
     margin-left: 11%;
     margin-top: 1%;
   }
-
   .header-button {
     padding: 3%;
     margin-right: 5%;
     width: 40%;
     text-align: center;
   }
-
   .header-button button {
     padding: 2%;
     font-size: 13px;
   }
-
   .main-program {
     padding: 4rem 2rem;
   }
-
   .program {
     padding: 2rem 1rem;
   }
-
   .program-type {
     padding: 0;
   }
-
   .summits {
     gap: 2%;
     margin: 2%;
     align-items: center;
   }
-
   .summit-img {
     width: 80%;
   }
-
   .summit-img p {
     font-size: 1.4rem;
   }
-
   .summit-img img {
     width: 100%;
     height: auto;
     filter: blur(2px);
   }
-
   .footer-bottom-logo img {
     width: 90%;
     margin-left: 17%;
   }
-
   .inner-content-bottom .under-line {
     width: 37%;
   }
