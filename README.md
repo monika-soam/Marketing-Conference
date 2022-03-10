@@ -32,5 +32,6 @@ Give a ⭐️ if you like this project! and advice me where to work upon it
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+Special thanks to [Cindy Shin](https://www.behance.net/adagio07) - GUI & Graphic Designer for the template.
+
 
